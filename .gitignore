@@ -1,0 +1,8 @@
+/BUILD/
+/doxygen/documentation/
+__pycache__/
+.idea/
+cmake-build-debug/*
+cmake-build-debug-mingw2/*
+cmake-build-debug-mingw/*
+CMakeFiles/*

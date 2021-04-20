@@ -1,0 +1,13 @@
+{
+    "macros": [
+    ],
+
+    "target_overrides": {
+        "*": {
+            "target.printf_lib": "std"
+        },
+        "NUCLEO_F767ZI": {
+            "target.lse_available": 0
+        }
+    }
+}

@@ -1,0 +1,18 @@
+[submodule "drivers/power_supply/power-supply-control"]
+	path = drivers/power_supply/power-supply-control
+	url = ../../firmware/mbed-os-hardware-drivers/power-supply-control
+[submodule "targets/TARGET_EOS_1001/fpga_eos_driver"]
+	path = targets/TARGET_EOS_1001/fpga_eos_driver
+	url = ../../firmware/mbed-os-hardware-drivers/fpga_eos_driver
+[submodule "drivers/pulse_channel/pulse_channel_base_class"]
+	path = drivers/pulse_channel/pulse_channel_base_class
+	url = ../../firmware/mbed-os-hardware-drivers/pulse_channel_base_class
+[submodule "drivers/peripherals/mcp23s17"]
+	path = drivers/peripherals/mcp23s17
+	url = ../../firmware/mbed-os-hardware-drivers/mcp23s17
+[submodule "drivers/peripherals/asd-a2_servo_control"]
+	path = drivers/peripherals/asd-a2_servo_control
+	url = ../../firmware/mbed-os-hardware-drivers/asd-a2_servo_control
+[submodule "mbed-os"]
+	path = mbed-os
+	url = https://github.com/ARMmbed/mbed-os

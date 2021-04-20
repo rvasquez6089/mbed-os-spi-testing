@@ -1,0 +1,6 @@
+cmake-build-debug-mingw2/*
+cmake-build-debug/*
+cmake-build-debug-mingw/*
+CMakeFiles/*
+targets/TARGET_CDM_2.0_MINI_INHOUSE/*
+drivers/peripherals/asd-a2_servo_control/*
